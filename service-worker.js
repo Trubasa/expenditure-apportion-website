@@ -1,9 +1,9 @@
-importScripts("/precache-manifest.1a6e983b7a1f84e81656166837ab8b75.js");
+importScripts("https://trubasa.github.io/expenditure-apportion-website/precache-manifest.ab37cae2300bb3d843446d1fef371a48.js");
 
 
-        importScripts('/static/workbox-v3.6.3/workbox-sw.js');
+        importScripts('https://trubasa.github.io/expenditure-apportion-website/static/workbox-v3.6.3/workbox-sw.js');
         workbox.setConfig({
-            modulePathPrefix: '/static/workbox-v3.6.3/'
+            modulePathPrefix: 'https://trubasa.github.io/expenditure-apportion-website/static/workbox-v3.6.3/'
         });
     /**
  * @file service-worker.js with workbox api

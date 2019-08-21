@@ -8,8 +8,28 @@
             "meta": {}
         },
         {
+            "path": "/content/expenditure-list",
+            "name": "contentExpenditureList",
+            "meta": {}
+        },
+        {
+            "path": "/content",
+            "name": "content",
+            "meta": {}
+        },
+        {
             "path": "/detail/:id",
             "name": "detailId",
+            "meta": {}
+        },
+        {
+            "path": "/expenditurelist",
+            "name": "expenditurelist",
+            "meta": {}
+        },
+        {
+            "path": "/helloworld",
+            "name": "helloworld",
             "meta": {}
         },
         {
