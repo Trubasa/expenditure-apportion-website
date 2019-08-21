@@ -1,4 +1,4 @@
-importScripts("https://trubasa.github.io/expenditure-apportion-website/precache-manifest.ab37cae2300bb3d843446d1fef371a48.js");
+importScripts("https://trubasa.github.io/expenditure-apportion-website/precache-manifest.a9f27e99baa62c3f7032d19931057a11.js");
 
 
         importScripts('https://trubasa.github.io/expenditure-apportion-website/static/workbox-v3.6.3/workbox-sw.js');

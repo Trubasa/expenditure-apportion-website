@@ -1,6 +1,6 @@
 {
     "mode": "history",
-    "base": "/",
+    "base": "./",
     "routes": [
         {
             "path": "/appshell",
